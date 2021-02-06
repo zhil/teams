@@ -4,3 +4,5 @@ I plan to build Microsoft Teams plugin, which will solve this issue https://micr
 I am working on prototype now, looking for beta-testers and ideas!
 
 Do you miss something in Teams UI? Lets discuss if it can be solved!
+
+Feel free to open issues OR [join beta-testers!](https://github.com/zhil/teams-plugin/issues/1)
